@@ -7,6 +7,13 @@ description: "Use this skill whenever you are asked to build, refine, or use an 
 
 **Persona library location:** completed persona prompt files (e.g. `howard-marks-system-prompt-v2.md`, `dan-loeb-system-prompt-v1.md`) referenced throughout this skill live in `C:\Users\User\Claude\Projects\Investor Personas\`, indexed in that folder's `INDEX.md`. Read a persona's file from there before applying it to a company. New personas built from this skill should be saved to that same folder and added to `INDEX.md`.
 
+## Storage rules
+
+- **One canonical folder:** `C:\Users\User\Claude\Projects\Investor Personas\`. Never save persona files anywhere else.
+- **Filename pattern:** `firstname-lastname-system-prompt-vN.md` (lowercase, hyphens), e.g. `howard-marks-system-prompt-v2.md`. For a revision, save a new version number and keep the old file.
+- **After every save, update `INDEX.md`** in that folder. A persona isn't finished until it is indexed.
+- **If the folder can't be reached** (for example in Desktop chat), output the full persona prompt in the reply and tell Greg to save it to that folder under the filename above and add it to `INDEX.md`.
+
 **Scheduled updates:** `C:\Users\User\Claude\Scheduled\update-investor-personas\SKILL.md` runs periodically to refresh existing personas' "Current Context" sections — check its dated research logs before assuming a persona's context section is stale.
 
 ## Why this skill exists
