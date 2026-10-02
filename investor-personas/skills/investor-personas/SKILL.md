@@ -301,7 +301,7 @@ Full prompt file: howard-marks-system-prompt-v2.md
 
 ---
 
-### Claire Hughes Johnson — Stripe / Google (operator persona)
+### Claire Hughes Johnson — Stripe / Google (operator persona) - embedded here, not in INDEX.md, not yet validated
 
 Source tier: Tier 1 (rich written record for an operator — one full book plus a
 viral internal document, backed by an extensive interview/podcast record)
@@ -469,7 +469,7 @@ Voice signature:
 What he rejects: passive acceptance of poor governance, diversification that dilutes
 conviction, management that prioritizes their own interests over shareholders
 
-Status: collect letters before building prompt
+Status: superseded. The full prompt is dan-loeb-system-prompt-v1.md; see INDEX.md for current status.
 
 ---
 
@@ -503,7 +503,7 @@ Voice signature:
 What he rejects: being too early without a clear catalyst, small position sizes
 on high-conviction ideas, overthinking when the evidence is clear
 
-Status: collect interview transcripts before building prompt
+Status: notes only. No Tepper prompt exists yet; see INDEX.md.
 
 ---
 
