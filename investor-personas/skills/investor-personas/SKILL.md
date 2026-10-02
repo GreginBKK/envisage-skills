@@ -1,6 +1,6 @@
 ---
 name: "investor-personas"
-description: "Use this skill whenever you are asked to build, refine, or use an investor or operator persona prompt. Triggers include: 'build a persona for X investor', 'analyze this company as [investor]', 'create a prompt that thinks like [investor/operator]', 'add a new investor to the persona library', or any request to evaluate a company or founder from the perspective of a specific named investor or operator. This skill defines the full process: how to collect source material, how to structure the prompt, how to calibrate the voice, and how to test the output. It contains the completed Howard Marks persona, the completed Claire Hughes Johnson (Stripe/Google) operator persona, and starter notes for David Tepper and Dan Loeb."
+description: "Use this skill whenever you are asked to build, refine, test, or use an investor or operator persona prompt. Triggers include: 'build a persona for X investor', 'analyze this company as [investor]', 'create a prompt that thinks like [investor/operator]', 'add a new investor to the persona library', 'which personas do we have', or any request to evaluate a company or founder from the perspective of a specific named investor or operator. This skill defines the full process: how to collect and tier source material, how to structure the prompt, how to calibrate the voice, and how to test the output. Completed personas are saved in the Investor Personas folder and listed in its INDEX.md, so read that index for who is available."
 ---
 
 # Investor Persona Builder
