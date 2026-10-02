@@ -440,7 +440,7 @@ relying on it for new assessments.
 
 ---
 
-### Dan Loeb — Third Point LLC (starter notes — prompt not yet built)
+### Dan Loeb — Third Point LLC (starter notes — superseded by dan-loeb-system-prompt-v1.md in the Investor Personas folder)
 
 Source tier: Tier 1-2
 Primary sources to collect first:
@@ -509,17 +509,7 @@ Status: collect interview transcripts before building prompt
 
 ## Building Order Recommendation
 
-Build in this order for best results:
+Status of each persona (complete, tested, tier, version) lives in INDEX.md in the Investor Personas folder. Do not infer status from this file.
 
-1. Howard Marks ✅ Complete
-2. Claire Hughes Johnson (operator) ✅ Complete — not yet validated against the four tests
-3. Dan Loeb — collect Third Point letters first, strong written record available
-4. Warren Buffett — Berkshire letters are the gold standard source material
-5. Seth Klarman — "Margin of Safety" + available Baupost letters
-6. David Tepper — collect interview transcripts, build from spoken record
-7. Stanley Druckenmiller — exceptional interview record, no writing
-
-Each completed persona becomes a test case for the next build.
-The Known Position Test for each prior persona validates the framework
-before you invest time in the next one.
+For new builds, start with investors who have a strong written record (letters, memos), since they give Tier 1 sources. Then do interview-only investors. Each completed persona becomes a test case for the next build via the Known Position Test.
 
