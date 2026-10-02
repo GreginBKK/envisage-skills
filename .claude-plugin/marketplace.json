@@ -1,0 +1,11 @@
+{
+  "name": "envisage-skills",
+  "owner": { "name": "Greg Hansen" },
+  "plugins": [
+    {
+      "name": "investor-personas",
+      "source": "./investor-personas",
+      "description": "Build investor personas and add them to the Envisage persona library"
+    }
+  ]
+}
