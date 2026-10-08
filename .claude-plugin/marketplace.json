@@ -6,6 +6,11 @@
       "name": "investor-personas",
       "source": "./investor-personas",
       "description": "Build investor personas and add them to the Envisage persona library"
+    },
+    {
+      "name": "write-your-story",
+      "source": "./write-your-story",
+      "description": "Graham Weaver / Alpine Investors 'write your story' framework for vision narratives"
     }
   ]
 }
